@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web development and mobile development 
 - 🌱 I’m currently learning web development and python
 - 💞️ I’m looking to collaborate on solving others begginers doubts
-- 📫 How to reach me rfguilherme@protonmail.com
+- 📫 How to reach me rfguilherme@protonmail.me
 
 <!---
 rfguilherme/rfguilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
